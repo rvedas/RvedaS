@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "print(\"hello RvedaS\")",
+    "created" : 1499986004415.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2847690036",
+    "id" : "F77A4A69",
+    "lastKnownWriteTime" : 1499986021,
+    "last_content_update" : 1499986021338,
+    "path" : "~/RvedaS/hello.R",
+    "project_path" : "hello.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
