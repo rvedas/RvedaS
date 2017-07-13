@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "print(\"hello RvedaS\")",
+    "contents" : "print(\"hello RvedaS\")\nprint(\"lets start the party\")",
     "created" : 1499986004415.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2847690036",
+    "hash" : "1451809748",
     "id" : "F77A4A69",
-    "lastKnownWriteTime" : 1499986021,
-    "last_content_update" : 1499986021338,
+    "lastKnownWriteTime" : 1499986312,
+    "last_content_update" : 1499986312913,
     "path" : "~/RvedaS/hello.R",
     "project_path" : "hello.R",
     "properties" : {
