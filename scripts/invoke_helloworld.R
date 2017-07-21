@@ -1,7 +1,7 @@
 library("httr")
 library(uuid)
 
-number_of_requests <- 100
+number_of_requests <- 10
 rclient_id <- 201
 
 for (i in 1:number_of_requests) {
