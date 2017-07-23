@@ -1,8 +1,8 @@
 library("httr")
 library(uuid)
 
-number_of_requests <- 10
-rclient_id <- 201
+number_of_requests <- 100
+rclient_id <- 101
 
 for (i in 1:number_of_requests) {
   ruuid <- uuid::UUIDgenerate()
